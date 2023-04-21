@@ -1,0 +1,6 @@
+(include_subdirs qualified)
+
+(data_only_dirs bar-baz)
+
+(executable
+ (name foo))
